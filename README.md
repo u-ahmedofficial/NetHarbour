@@ -177,15 +177,15 @@ Umair Ahmed - [@your_twitter](https://twitter.com/your_username) - umairahmedoff
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [contributors-url]: https://github.com/u-ahmedofficial/NetHarbour/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [forks-url]: https://github.com/u-ahmedofficial/NetHarbour/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [stars-url]: https://github.com/u-ahmedofficial/NetHarbour/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/ou-ahmedofficial/NetHarbour.svg?style=flat-square
 [issues-url]: https://github.com/u-ahmedofficial/NetHarbour/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [license-url]: https://github.com/u-ahmedofficial/NetHarbour/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/umairahmedofficial/
