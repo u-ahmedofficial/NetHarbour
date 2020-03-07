@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Umair Ahmed - [@your_twitter](https://twitter.com/your_username) - umairahmedofficial1@gmail.com
+Umair Ahmed - [@your_twitter](https://twitter.com/u_ahmedofficial) - umairahmedofficial1@gmail.com
 
 <!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
