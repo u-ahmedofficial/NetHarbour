@@ -183,7 +183,7 @@ Umair Ahmed - [@your_twitter](https://twitter.com/your_username) - umairahmedoff
 [forks-url]: https://github.com/u-ahmedofficial/NetHarbour/network/members
 [stars-shield]: https://img.shields.io/github/stars/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [stars-url]: https://github.com/u-ahmedofficial/NetHarbour/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ou-ahmedofficial/NetHarbour.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [issues-url]: https://github.com/u-ahmedofficial/NetHarbour/issues
 [license-shield]: https://img.shields.io/github/license/u-ahmedofficial/NetHarbour.svg?style=flat-square
 [license-url]: https://github.com/u-ahmedofficial/NetHarbour/blob/master/LICENSE.txt
